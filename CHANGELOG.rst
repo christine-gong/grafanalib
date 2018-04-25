@@ -8,6 +8,7 @@ Changes
 -------
 
 * Added the support for mixed data sources  
+* Added the AlertList Panel support in grafanalib/core
 
 
 0.5.2 (unreleased)
